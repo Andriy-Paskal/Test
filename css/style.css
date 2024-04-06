@@ -1,3 +1,12 @@
 body{
-    background: red;
+    background: lightblue;
+}
+.block{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background: lightgreen;
+}
+.container{
+    display: flex;
 }
