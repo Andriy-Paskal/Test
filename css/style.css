@@ -1,5 +1,8 @@
 body{
-    background: lightblue;
+    background: red;
+}
+h1{
+    font-size: 22px;
 }
 .block{
     width: 100px;
@@ -9,4 +12,7 @@ body{
 }
 .container{
     display: flex;
+}
+.block{
+    margin: 50px;
 }
