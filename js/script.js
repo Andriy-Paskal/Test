@@ -1,1 +1,3 @@
-alert(1);
+
+let answer = prompt('Your age more 18 years old?');
+alert(answer);
